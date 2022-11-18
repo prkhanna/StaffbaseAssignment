@@ -1,0 +1,5 @@
+For Web Testing
+1) Run the testng.xml file to execute the test cases.
+2) Once all testcases are executed, refresh the "test-output" folder.
+3) You will see "SparkReport-Current Timestamp" folder being generated under "test-output/Reports" folder
+   with the Staffbase.html file name.
